@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+dist/
+build/
+*.egg-info/
+
+# State (uncomment if you'd rather not check it in)
+# state/sent.json

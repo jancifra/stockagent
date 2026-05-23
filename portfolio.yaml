@@ -1,0 +1,91 @@
+# Portfolio holdings. Edit freely.
+#
+# Each entry:
+#   ticker:  symbol you think of the position by (any format)
+#   yahoo:   yfinance symbol (e.g. BRK-B, ADYEN.AS, SAP.DE)
+#   sec:     true if filings exist on SEC EDGAR (US-listed or 20-F filer)
+#   notes:   your thesis / what to watch — fed to the briefing prompt so reports
+#            reflect your view, not generic coverage.
+
+contact_email: jan@cifra.co
+
+holdings:
+  - ticker: GOOG
+    yahoo: GOOG
+    sec: true
+    notes: Search moat under AI pressure; watch Cloud growth, capex, and Gemini monetization signals.
+
+  - ticker: TSM
+    yahoo: TSM
+    sec: true   # files 20-F / 6-K as ADR
+    notes: Foundry monopoly at leading edge; HBM/CoWoS capacity and N2 ramp commentary are the tell.
+
+  - ticker: AMZN
+    yahoo: AMZN
+    sec: true
+    notes: AWS reacceleration vs Azure/GCP; retail margin expansion; capex intensity.
+
+  - ticker: AMD
+    yahoo: AMD
+    sec: true
+    notes: MI300/MI350 ramp; data-center share vs NVDA; guidance on AI accelerator revenue line.
+
+  - ticker: NVDA
+    yahoo: NVDA
+    sec: true
+    notes: Demand visibility past Blackwell; networking attach; any softening in hyperscaler orders.
+
+  - ticker: META
+    yahoo: META
+    sec: true
+    notes: Ad pricing & impression growth; Reality Labs losses trend; capex.
+
+  - ticker: AAPL
+    yahoo: AAPL
+    sec: true
+    notes: iPhone unit trajectory; Services margin; China revenue; AI feature rollout.
+
+  - ticker: NFLX
+    yahoo: NFLX
+    sec: true
+    notes: Sub adds, ARM trends, ad-tier traction, content amortization discipline.
+
+  - ticker: ASML
+    yahoo: ASML
+    sec: true   # files 20-F / 6-K
+    notes: Order book intake (especially EUV/High-NA); China export commentary; 2026 guide.
+
+  - ticker: MSFT
+    yahoo: MSFT
+    sec: true
+    notes: Azure growth ex-AI; AI-specific revenue disclosures; OpenAI partnership commentary; capex.
+
+  - ticker: SHOP
+    yahoo: SHOP
+    sec: true   # SHOP is Canadian but files with SEC
+    notes: GMV growth, take-rate, free cash flow margin, enterprise/B2B traction.
+
+  - ticker: BRK.B
+    yahoo: BRK-B
+    sec: true
+    notes: Operating earnings (esp. insurance & BNSF); cash pile deployment; buyback pace; Buffett/Abel commentary.
+
+  - ticker: ADYEN.NV
+    yahoo: ADYEN.AS
+    sec: false  # no SEC filings; reports via own IR site, semi-annual
+    notes: Net revenue growth, EBITDA margin recovery, North America wins. Reports H1/H2 not quarterly.
+
+  - ticker: SAP.DE
+    yahoo: SAP.DE
+    sec: true   # SAP files 20-F as foreign private issuer
+    notes: Cloud revenue & cloud backlog growth, transition pace off ECC, operating margin.
+
+  - ticker: AJG
+    yahoo: AJG
+    sec: true
+    notes: Organic growth in brokerage; Assured Partners integration; reinsurance pricing commentary.
+
+  - ticker: MBG.DE
+    yahoo: MBG.DE
+    sec: false  # delisted from NYSE in 2010; no SEC filings
+    notes: Top-end / Mercedes-Benz Cars margin, China demand, EV mix, dividend & buyback.
