@@ -1,0 +1,18 @@
+[
+  {
+    "ticker": "NVDA",
+    "earnings_date": "2026-05-20",
+    "packet": "packets/NVDA_2026-05-20.md",
+    "meta": {
+      "ticker": "NVDA",
+      "yahoo": "NVDA",
+      "earnings_date": "2026-05-20",
+      "source": "0001045810-26-000051",
+      "already_sent": false,
+      "eps_actual": 1.87,
+      "eps_estimate": 1.77,
+      "surprise_pct": 5.54,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000051/nvda-20260520.htm"
+    }
+  }
+]
