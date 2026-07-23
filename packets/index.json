@@ -1,5 +1,21 @@
 [
   {
+    "ticker": "GOOG",
+    "earnings_date": "2026-07-22",
+    "packet": "packets/GOOG_2026-07-22.md",
+    "meta": {
+      "ticker": "GOOG",
+      "yahoo": "GOOG",
+      "earnings_date": "2026-07-22",
+      "source": "0001652044-26-000066",
+      "already_sent": false,
+      "eps_actual": 9.11,
+      "eps_estimate": 2.91,
+      "surprise_pct": 212.9,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/goog-20260722.htm"
+    }
+  },
+  {
     "ticker": "TSM",
     "earnings_date": "2026-07-16",
     "packet": "packets/TSM_2026-07-16.md",
@@ -29,22 +45,6 @@
       "eps_estimate": 0.79,
       "surprise_pct": 1.45,
       "filing_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000211/nflx-20260716.htm"
-    }
-  },
-  {
-    "ticker": "ASML",
-    "earnings_date": "2026-07-13",
-    "packet": "packets/ASML_2026-07-13.md",
-    "meta": {
-      "ticker": "ASML",
-      "yahoo": "ASML",
-      "earnings_date": "2026-07-13",
-      "source": "0001628280-26-048235",
-      "already_sent": false,
-      "eps_actual": 7.58,
-      "eps_estimate": 6.9,
-      "surprise_pct": 9.93,
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/form6-kquarterlyfilings.htm"
     }
   }
 ]
