@@ -16,19 +16,19 @@
     }
   },
   {
-    "ticker": "NFLX",
+    "ticker": "TSM",
     "earnings_date": "2026-07-16",
-    "packet": "packets/NFLX_2026-07-16.md",
+    "packet": "packets/TSM_2026-07-16.md",
     "meta": {
-      "ticker": "NFLX",
-      "yahoo": "NFLX",
+      "ticker": "TSM",
+      "yahoo": "TSM",
       "earnings_date": "2026-07-16",
-      "source": "0001065280-26-000212",
+      "source": "0001046179-26-000459",
       "already_sent": false,
-      "eps_actual": 0.8,
-      "eps_estimate": 0.79,
-      "surprise_pct": 1.45,
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000212/nflx-20260630.htm"
+      "eps_actual": 4.31,
+      "eps_estimate": 3.89,
+      "surprise_pct": 10.89,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000459/tsm-monthend6kx20260724.htm"
     }
   },
   {
