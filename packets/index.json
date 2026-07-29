@@ -39,11 +39,27 @@
       "ticker": "SAP.DE",
       "yahoo": "SAP.DE",
       "earnings_date": "2026-07-22",
-      "source": "yfinance",
+      "source": "0001104659-26-087251",
       "already_sent": false,
       "eps_actual": 1.59,
       "eps_estimate": 1.75,
       "surprise_pct": -9.29,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1000184/000110465926087251/tm2621275d1_6k.htm"
+    }
+  },
+  {
+    "ticker": "MBG.DE",
+    "earnings_date": "2026-07-26",
+    "packet": "packets/MBG_DE_2026-07-26.md",
+    "meta": {
+      "ticker": "MBG.DE",
+      "yahoo": "MBG.DE",
+      "earnings_date": "2026-07-26",
+      "source": "yfinance",
+      "already_sent": false,
+      "eps_actual": 1.67,
+      "eps_estimate": 1.23,
+      "surprise_pct": 36.48,
       "filing_url": null
     }
   }
