@@ -7,12 +7,12 @@
       "ticker": "GOOG",
       "yahoo": "GOOG",
       "earnings_date": "2026-07-22",
-      "source": "0001652044-26-000066",
+      "source": "0001652044-26-000071",
       "already_sent": false,
       "eps_actual": 9.11,
       "eps_estimate": 2.91,
       "surprise_pct": 212.9,
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/goog-20260722.htm"
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm"
     }
   },
   {
@@ -29,6 +29,38 @@
       "eps_estimate": 3.89,
       "surprise_pct": 10.89,
       "filing_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000459/tsm-monthend6kx20260724.htm"
+    }
+  },
+  {
+    "ticker": "META",
+    "earnings_date": "2026-07-29",
+    "packet": "packets/META_2026-07-29.md",
+    "meta": {
+      "ticker": "META",
+      "yahoo": "META",
+      "earnings_date": "2026-07-29",
+      "source": "0001628280-26-050596",
+      "already_sent": false,
+      "eps_actual": 6.18,
+      "eps_estimate": 7.22,
+      "surprise_pct": -14.42,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050596/meta-20260729.htm"
+    }
+  },
+  {
+    "ticker": "MSFT",
+    "earnings_date": "2026-07-29",
+    "packet": "packets/MSFT_2026-07-29.md",
+    "meta": {
+      "ticker": "MSFT",
+      "yahoo": "MSFT",
+      "earnings_date": "2026-07-29",
+      "source": "0001193125-26-323632",
+      "already_sent": false,
+      "eps_actual": 4.74,
+      "eps_estimate": 4.24,
+      "surprise_pct": 11.81,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323632/msft-20260729.htm"
     }
   },
   {
