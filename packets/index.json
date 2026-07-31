@@ -1,21 +1,5 @@
 [
   {
-    "ticker": "GOOG",
-    "earnings_date": "2026-07-22",
-    "packet": "packets/GOOG_2026-07-22.md",
-    "meta": {
-      "ticker": "GOOG",
-      "yahoo": "GOOG",
-      "earnings_date": "2026-07-22",
-      "source": "0001652044-26-000071",
-      "already_sent": false,
-      "eps_actual": 9.11,
-      "eps_estimate": 2.91,
-      "surprise_pct": 212.9,
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm"
-    }
-  },
-  {
     "ticker": "TSM",
     "earnings_date": "2026-07-16",
     "packet": "packets/TSM_2026-07-16.md",
@@ -32,6 +16,22 @@
     }
   },
   {
+    "ticker": "AMZN",
+    "earnings_date": "2026-07-30",
+    "packet": "packets/AMZN_2026-07-30.md",
+    "meta": {
+      "ticker": "AMZN",
+      "yahoo": "AMZN",
+      "earnings_date": "2026-07-30",
+      "source": "0001018724-26-000024",
+      "already_sent": false,
+      "eps_actual": 5.75,
+      "eps_estimate": 1.83,
+      "surprise_pct": 214.23,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260730.htm"
+    }
+  },
+  {
     "ticker": "META",
     "earnings_date": "2026-07-29",
     "packet": "packets/META_2026-07-29.md",
@@ -45,6 +45,22 @@
       "eps_estimate": 7.22,
       "surprise_pct": -14.42,
       "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050596/meta-20260729.htm"
+    }
+  },
+  {
+    "ticker": "AAPL",
+    "earnings_date": "2026-07-30",
+    "packet": "packets/AAPL_2026-07-30.md",
+    "meta": {
+      "ticker": "AAPL",
+      "yahoo": "AAPL",
+      "earnings_date": "2026-07-30",
+      "source": "0000320193-26-000018",
+      "already_sent": false,
+      "eps_actual": 2.02,
+      "eps_estimate": 1.89,
+      "surprise_pct": 6.74,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000018/aapl-20260730.htm"
     }
   },
   {
@@ -80,6 +96,22 @@
     }
   },
   {
+    "ticker": "AJG",
+    "earnings_date": "2026-07-30",
+    "packet": "packets/AJG_2026-07-30.md",
+    "meta": {
+      "ticker": "AJG",
+      "yahoo": "AJG",
+      "earnings_date": "2026-07-30",
+      "source": "0001628280-26-051070",
+      "already_sent": false,
+      "eps_actual": 2.84,
+      "eps_estimate": 2.81,
+      "surprise_pct": 0.94,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/354190/000162828026051070/ajg-20260730.htm"
+    }
+  },
+  {
     "ticker": "MBG.DE",
     "earnings_date": "2026-07-26",
     "packet": "packets/MBG_DE_2026-07-26.md",
@@ -90,8 +122,8 @@
       "source": "yfinance",
       "already_sent": false,
       "eps_actual": 1.67,
-      "eps_estimate": 1.23,
-      "surprise_pct": 36.48,
+      "eps_estimate": 1.24,
+      "surprise_pct": 35.02,
       "filing_url": null
     }
   }
