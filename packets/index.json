@@ -16,6 +16,22 @@
     }
   },
   {
+    "ticker": "AMD",
+    "earnings_date": "2026-08-04",
+    "packet": "packets/AMD_2026-08-04.md",
+    "meta": {
+      "ticker": "AMD",
+      "yahoo": "AMD",
+      "earnings_date": "2026-08-04",
+      "source": "0000002488-26-000121",
+      "already_sent": false,
+      "eps_actual": null,
+      "eps_estimate": null,
+      "surprise_pct": null,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/amd-20260804.htm"
+    }
+  },
+  {
     "ticker": "META",
     "earnings_date": "2026-07-29",
     "packet": "packets/META_2026-07-29.md",
@@ -61,22 +77,6 @@
       "eps_estimate": 4.24,
       "surprise_pct": 11.81,
       "filing_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323632/msft-20260729.htm"
-    }
-  },
-  {
-    "ticker": "SAP.DE",
-    "earnings_date": "2026-07-22",
-    "packet": "packets/SAP_DE_2026-07-22.md",
-    "meta": {
-      "ticker": "SAP.DE",
-      "yahoo": "SAP.DE",
-      "earnings_date": "2026-07-22",
-      "source": "0001104659-26-087251",
-      "already_sent": false,
-      "eps_actual": 1.59,
-      "eps_estimate": 1.75,
-      "surprise_pct": -9.29,
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1000184/000110465926087251/tm2621275d1_6k.htm"
     }
   },
   {
