@@ -39,12 +39,12 @@
       "ticker": "META",
       "yahoo": "META",
       "earnings_date": "2026-07-29",
-      "source": "0001628280-26-050596",
+      "source": "0001628280-26-050705",
       "already_sent": false,
       "eps_actual": 6.18,
       "eps_estimate": 7.22,
       "surprise_pct": -14.42,
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050596/meta-20260729.htm"
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/meta-20260630.htm"
     }
   },
   {
@@ -64,19 +64,19 @@
     }
   },
   {
-    "ticker": "MSFT",
-    "earnings_date": "2026-07-29",
-    "packet": "packets/MSFT_2026-07-29.md",
+    "ticker": "SHOP",
+    "earnings_date": "2026-08-05",
+    "packet": "packets/SHOP_2026-08-05.md",
     "meta": {
-      "ticker": "MSFT",
-      "yahoo": "MSFT",
-      "earnings_date": "2026-07-29",
-      "source": "0001193125-26-323632",
+      "ticker": "SHOP",
+      "yahoo": "SHOP",
+      "earnings_date": "2026-08-05",
+      "source": "0001594805-26-000046",
       "already_sent": false,
-      "eps_actual": 4.74,
-      "eps_estimate": 4.24,
-      "surprise_pct": 11.81,
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323632/msft-20260729.htm"
+      "eps_actual": null,
+      "eps_estimate": null,
+      "surprise_pct": null,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000046/shop-20260805.htm"
     }
   },
   {
