@@ -1,21 +1,5 @@
 [
   {
-    "ticker": "AMZN",
-    "earnings_date": "2026-07-30",
-    "packet": "packets/AMZN_2026-07-30.md",
-    "meta": {
-      "ticker": "AMZN",
-      "yahoo": "AMZN",
-      "earnings_date": "2026-07-30",
-      "source": "0001018724-26-000026",
-      "already_sent": false,
-      "eps_actual": 5.75,
-      "eps_estimate": 1.83,
-      "surprise_pct": 215.02,
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm"
-    }
-  },
-  {
     "ticker": "AMD",
     "earnings_date": "2026-08-04",
     "packet": "packets/AMD_2026-08-04.md",
@@ -32,22 +16,6 @@
     }
   },
   {
-    "ticker": "AAPL",
-    "earnings_date": "2026-07-30",
-    "packet": "packets/AAPL_2026-07-30.md",
-    "meta": {
-      "ticker": "AAPL",
-      "yahoo": "AAPL",
-      "earnings_date": "2026-07-30",
-      "source": "0000320193-26-000020",
-      "already_sent": false,
-      "eps_actual": 2.02,
-      "eps_estimate": 1.89,
-      "surprise_pct": 6.74,
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm"
-    }
-  },
-  {
     "ticker": "SHOP",
     "earnings_date": "2026-08-05",
     "packet": "packets/SHOP_2026-08-05.md",
@@ -61,6 +29,22 @@
       "eps_estimate": 0.4,
       "surprise_pct": 5.05,
       "filing_url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000046/shop-20260805.htm"
+    }
+  },
+  {
+    "ticker": "BRK.B",
+    "earnings_date": "2026-08-08",
+    "packet": "packets/BRK_B_2026-08-08.md",
+    "meta": {
+      "ticker": "BRK.B",
+      "yahoo": "BRK-B",
+      "earnings_date": "2026-08-08",
+      "source": "yfinance",
+      "already_sent": false,
+      "eps_actual": 6.03,
+      "eps_estimate": 5.13,
+      "surprise_pct": 17.4,
+      "filing_url": null
     }
   },
   {
