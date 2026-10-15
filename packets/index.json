@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "ticker": "ASML",
+    "earnings_date": "2026-10-14",
+    "packet": "packets/ASML_2026-10-14.md",
+    "meta": {
+      "ticker": "ASML",
+      "yahoo": "ASML",
+      "earnings_date": "2026-10-14",
+      "source": "0001628280-26-065813",
+      "already_sent": false,
+      "eps_actual": 11.82,
+      "eps_estimate": 10.76,
+      "surprise_pct": 9.86,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026065813/form6-kquarterlyfilings.htm"
+    }
+  }
+]
