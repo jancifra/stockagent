@@ -55,12 +55,12 @@
       "ticker": "SAP.DE",
       "yahoo": "SAP.DE",
       "earnings_date": "2026-10-20",
-      "source": "yfinance",
+      "source": "0001104659-26-118617",
       "already_sent": false,
       "eps_actual": 1.89,
       "eps_estimate": 1.83,
       "surprise_pct": 3.09,
-      "filing_url": null
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1000184/000110465926118617/tm2628113d1_6k.htm"
     }
   }
 ]
