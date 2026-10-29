@@ -1,5 +1,21 @@
 [
   {
+    "ticker": "GOOG",
+    "earnings_date": "2026-10-28",
+    "packet": "packets/GOOG_2026-10-28.md",
+    "meta": {
+      "ticker": "GOOG",
+      "yahoo": "GOOG",
+      "earnings_date": "2026-10-28",
+      "source": "0001652044-26-000080",
+      "already_sent": false,
+      "eps_actual": 2.67,
+      "eps_estimate": 3.02,
+      "surprise_pct": -11.5,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/goog-20261028.htm"
+    }
+  },
+  {
     "ticker": "TSM",
     "earnings_date": "2026-10-15",
     "packet": "packets/TSM_2026-10-15.md",
@@ -23,28 +39,28 @@
       "ticker": "META",
       "yahoo": "META",
       "earnings_date": "2026-10-21",
-      "source": "0001628280-26-066700",
+      "source": "0001628280-26-066773",
       "already_sent": false,
       "eps_actual": 3.83,
       "eps_estimate": 5.46,
       "surprise_pct": -29.91,
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-20261019.htm"
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/meta-20260930.htm"
     }
   },
   {
-    "ticker": "NFLX",
-    "earnings_date": "2026-10-20",
-    "packet": "packets/NFLX_2026-10-20.md",
+    "ticker": "MSFT",
+    "earnings_date": "2026-10-28",
+    "packet": "packets/MSFT_2026-10-28.md",
     "meta": {
-      "ticker": "NFLX",
-      "yahoo": "NFLX",
-      "earnings_date": "2026-10-20",
-      "source": "0001065280-26-000291",
+      "ticker": "MSFT",
+      "yahoo": "MSFT",
+      "earnings_date": "2026-10-28",
+      "source": "0001193125-26-436122",
       "already_sent": false,
-      "eps_actual": 0.87,
-      "eps_estimate": 0.82,
-      "surprise_pct": 5.75,
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000291/nflx-20260930.htm"
+      "eps_actual": 4.89,
+      "eps_estimate": 4.72,
+      "surprise_pct": 3.59,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436122/msft-20261028.htm"
     }
   },
   {
@@ -65,17 +81,17 @@
   },
   {
     "ticker": "MBG.DE",
-    "earnings_date": "2026-10-28",
-    "packet": "packets/MBG_DE_2026-10-28.md",
+    "earnings_date": "2026-10-27",
+    "packet": "packets/MBG_DE_2026-10-27.md",
     "meta": {
       "ticker": "MBG.DE",
       "yahoo": "MBG.DE",
-      "earnings_date": "2026-10-28",
+      "earnings_date": "2026-10-27",
       "source": "yfinance",
       "already_sent": false,
-      "eps_actual": null,
-      "eps_estimate": 1.75,
-      "surprise_pct": null,
+      "eps_actual": 1.64,
+      "eps_estimate": 1.12,
+      "surprise_pct": 46.58,
       "filing_url": null
     }
   }
