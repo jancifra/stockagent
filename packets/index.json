@@ -7,12 +7,12 @@
       "ticker": "GOOG",
       "yahoo": "GOOG",
       "earnings_date": "2026-10-28",
-      "source": "0001652044-26-000080",
+      "source": "0001652044-26-000084",
       "already_sent": false,
       "eps_actual": 2.67,
       "eps_estimate": 2.98,
       "surprise_pct": -10.53,
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/goog-20261028.htm"
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm"
     }
   },
   {
@@ -61,22 +61,6 @@
       "eps_estimate": 1.99,
       "surprise_pct": 5.75,
       "filing_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000024/aapl-20261102.htm"
-    }
-  },
-  {
-    "ticker": "MSFT",
-    "earnings_date": "2026-10-28",
-    "packet": "packets/MSFT_2026-10-28.md",
-    "meta": {
-      "ticker": "MSFT",
-      "yahoo": "MSFT",
-      "earnings_date": "2026-10-28",
-      "source": "0001193125-26-436122",
-      "already_sent": false,
-      "eps_actual": 4.89,
-      "eps_estimate": 4.72,
-      "surprise_pct": 3.59,
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436122/msft-20261028.htm"
     }
   },
   {
