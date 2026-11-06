@@ -1,21 +1,5 @@
 [
   {
-    "ticker": "GOOG",
-    "earnings_date": "2026-10-28",
-    "packet": "packets/GOOG_2026-10-28.md",
-    "meta": {
-      "ticker": "GOOG",
-      "yahoo": "GOOG",
-      "earnings_date": "2026-10-28",
-      "source": "0001652044-26-000084",
-      "already_sent": false,
-      "eps_actual": 2.67,
-      "eps_estimate": 2.98,
-      "surprise_pct": -10.53,
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm"
-    }
-  },
-  {
     "ticker": "AMZN",
     "earnings_date": "2026-10-29",
     "packet": "packets/AMZN_2026-10-29.md",
@@ -23,12 +7,12 @@
       "ticker": "AMZN",
       "yahoo": "AMZN",
       "earnings_date": "2026-10-29",
-      "source": "0001018724-26-000038",
+      "source": "0001018724-26-000040",
       "already_sent": false,
       "eps_actual": 1.89,
       "eps_estimate": 1.96,
       "surprise_pct": -3.47,
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20261029.htm"
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm"
     }
   },
   {
@@ -87,12 +71,12 @@
       "ticker": "AJG",
       "yahoo": "AJG",
       "earnings_date": "2026-10-29",
-      "source": "0001628280-26-068263",
+      "source": "0001628280-26-070650",
       "already_sent": false,
       "eps_actual": 3.0,
       "eps_estimate": 2.99,
       "surprise_pct": 0.47,
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/354190/000162828026068263/ajg-20261029.htm"
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/354190/000162828026070650/ajg-20260930.htm"
     }
   }
 ]
